@@ -1,3 +1,4 @@
+479a0b7 Task 2.2
 69773e1 Task 2.1
 5b9da82 Task 1.2
 e1daaca Task 1.1
